@@ -34,6 +34,7 @@ p {
 	line-height: 20px;
 	letter-spacing: 0.5px;
 	margin: 20px 0 30px;
+	
 }
 
 span {
@@ -55,6 +56,7 @@ button {
 	font-size: 12px;
 	font-weight: bold;
 	padding: 12px 45px;
+	margin-bottom:10px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	transition: transform 80ms ease-in;
